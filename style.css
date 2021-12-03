@@ -1,0 +1,21 @@
+td{
+  border: 3px solid green;
+}
+h1{
+  color: red;
+}
+table{
+  border: 3px solid green;
+  color:rgb(9, 105, 84)
+}
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: aquamarine
+}
+p{
+  color:rgb(146, 7, 7)
+}
+tr{
+  background-color: rgb(86, 228, 180)
+
+}
